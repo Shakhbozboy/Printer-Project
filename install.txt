@@ -1,0 +1,1 @@
+installer.exe  --icon=icon.ico main.py

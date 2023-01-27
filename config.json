@@ -1,0 +1,15 @@
+{
+    "QRsubPart": "https://t.me/SoftDataAppTesterBot?start=",
+    "printers": [
+    {
+        "pName": "REXOD RMP-8300",
+        "ip_camera": "192.168.10.21",
+        "direction": "comeIn"
+    },
+    {
+        "pName": "xpr",
+        "ip_camera": "192.168.10.11",
+        "direction": "comeIn"
+    }
+]
+}
